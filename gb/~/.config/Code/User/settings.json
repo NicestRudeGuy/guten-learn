@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "BeardedTheme Black & Amethyst",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "[php]": {
+        "editor.defaultFormatter": "persoderlind.vscode-phpcbf"
+    },
+    "editor.cursorBlinking": "expand",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "'FiraMono Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block",
+    "workbench.startupEditor": "newUntitledFile",
+    "phpcs.standard": "WordPress",
+    "phpcbf.executablePath": "/usr/bin/phpcbf",
+    "phpcbf.standard": "WordPress",
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///editor.scss"],"names":[],"mappings":"AAAA;;EAEE;AACF;EACE,yBAAyB;EACzB,YAAY,EAAE","file":"index.css","sourcesContent":["/**\n * The following styles get applied inside the editor only.\n */\n.wp-block-create-block-gb {\n  border: 3px solid #1f1c1c;\n  padding: 5px; }\n"],"sourceRoot":""}

@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ */
+.wp-block-create-block-gb {
+  border: 3px solid #44ff00;
+  padding: 5px;
+  border-radius: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.wp-block-button {
+  text-align: center;
+  margin: auto; }
+
+
+/*# sourceMappingURL=style-index.css.map*/

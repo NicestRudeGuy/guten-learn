@@ -1,0 +1,16 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-rp {
+  background-color: var(--wp-admin-theme-color);
+  color: #fff;
+  padding: 2px; }
+
+.wp-block-latest-post {
+  text-align: center; }
+
+
+/*# sourceMappingURL=style-index.css.map*/

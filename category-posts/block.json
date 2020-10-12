@@ -1,0 +1,14 @@
+{
+	"name": "category-posts/category-posts",
+	"title": "Category-posts",
+	"category": "common",
+	"icon": "groups",
+	"description": "Dynamic Block which takes a category with no of posts ",
+	"textdomain": "category-posts",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

@@ -1,0 +1,14 @@
+{
+	"name": "create-block/gb",
+	"title": "Gb",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Guten block with coding standards",
+	"textdomain": "gb",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

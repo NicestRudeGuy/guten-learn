@@ -1,0 +1,21 @@
+{
+	"name": "category-posts-007",
+	"version": "0.0.1",
+	"description": "Dynamic Block which takes a category with no of posts ",
+	"author": "Vipin Kumar Dinkar",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format:js": "wp-scripts format-js",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"start": "wp-scripts start",
+		"packages-update": "wp-scripts packages-update"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^12.2.1"
+	},
+	"dependencies": {
+		"@wordpress/api-fetch": "^3.19.1"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"name": "create-block/rp",
+	"title": "Rp",
+	"category": "text",
+	"icon": "smiley",
+	"description": "block that returns link of recent 5 posts",
+	"textdomain": "rp",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
